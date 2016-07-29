@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Basic Algorithm Solutions
 =========================
 
@@ -17,7 +17,8 @@ The ones I've covered so far:
 5. Confirm Ending
 6. Longest String
 7. Repeat String
-=======
+
+
 Basic Algorithm Solutions
 =========================
 
