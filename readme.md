@@ -33,4 +33,3 @@ The ones I've covered so far:
 1. Longest String
 2. Palindrome
 3. Title Case a Sentence
->>>>>>> 485e5c143899b88a46ae8a09eacd0baf1fabe24f
