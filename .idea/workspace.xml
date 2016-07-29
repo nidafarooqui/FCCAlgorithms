@@ -21,8 +21,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="longestString.js" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/WebstormProjects/FCCAlgorithms/longestString.js">
+      <file leaf-file-name="longestString.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../FCCAlgorithms/longestString.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
@@ -31,8 +31,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../FCCAlgorithms/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="TitleCaseASentence.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/FCCAlgorithms/TitleCaseASentence.js">
+        <entry file="file://$PROJECT_DIR$/../FCCAlgorithms/TitleCaseASentence.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
@@ -42,7 +52,7 @@
         </entry>
       </file>
       <file leaf-file-name="palindrome.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/FCCAlgorithms/palindrome.js">
+        <entry file="file://$PROJECT_DIR$/../FCCAlgorithms/palindrome.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
@@ -64,9 +74,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="internal/process/next_tick.js" />
-        <option value="$USER_HOME$/WebstormProjects/FreeCodeCamp Algorithms/Title Case a Sentence.js" />
-        <option value="$USER_HOME$/WebstormProjects/FreeCodeCamp Algorithms/palindrome.js" />
-        <option value="$USER_HOME$/WebstormProjects/FreeCodeCamp Algorithms/longestString.js" />
+        <option value="$PROJECT_DIR$/Title Case a Sentence.js" />
+        <option value="$PROJECT_DIR$/palindrome.js" />
+        <option value="$PROJECT_DIR$/longestString.js" />
+        <option value="$PROJECT_DIR$/../FCCAlgorithms/.gitignore" />
       </list>
     </option>
   </component>
@@ -79,7 +90,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="725" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -113,6 +124,12 @@
               <option name="myItemId" value="FCCAlgorithms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FCCAlgorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="FCCAlgorithms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -132,7 +149,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RunManager" selected="Node.js.palindrome.js">
-    <configuration default="false" name="palindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$USER_HOME$/WebstormProjects/FCCAlgorithms/palindrome.js" working-dir="$USER_HOME$/WebstormProjects/FCCAlgorithms">
+    <configuration default="false" name="palindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/../FCCAlgorithms/palindrome.js" working-dir="$PROJECT_DIR$/../FCCAlgorithms">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -201,22 +218,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469804766033</updated>
-      <workItem from="1469804767335" duration="3300000" />
+      <workItem from="1469804767335" duration="3495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3300000" />
+    <option name="totallyTimeSpent" value="3495000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="725" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -237,25 +254,25 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$USER_HOME$/WebstormProjects/FCCAlgorithms/palindrome.js</url>
+          <url>file://$PROJECT_DIR$/../FCCAlgorithms/palindrome.js</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$USER_HOME$/WebstormProjects/FCCAlgorithms/palindrome.js</url>
+          <url>file://$PROJECT_DIR$/../FCCAlgorithms/palindrome.js</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$USER_HOME$/WebstormProjects/FCCAlgorithms/palindrome.js</url>
+          <url>file://$PROJECT_DIR$/../FCCAlgorithms/palindrome.js</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$USER_HOME$/WebstormProjects/FCCAlgorithms/palindrome.js</url>
+          <url>file://$PROJECT_DIR$/../FCCAlgorithms/palindrome.js</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="5" />
@@ -272,7 +289,7 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/WebstormProjects/FCCAlgorithms/TitleCaseASentence.js">
+    <entry file="file://$PROJECT_DIR$/../FCCAlgorithms/TitleCaseASentence.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
@@ -280,7 +297,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/FCCAlgorithms/palindrome.js">
+    <entry file="file://$PROJECT_DIR$/../FCCAlgorithms/palindrome.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
@@ -288,10 +305,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/FCCAlgorithms/longestString.js">
+    <entry file="file://$PROJECT_DIR$/../FCCAlgorithms/longestString.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FCCAlgorithms/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding />
         </state>
       </provider>
