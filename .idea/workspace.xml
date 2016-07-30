@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c88cc36b-ffbc-4490-8682-9f627eac2eb5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic-algorithms/falsybouncer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TitleCaseASentence.js" afterPath="$PROJECT_DIR$/basic-algorithms/TitleCaseASentence.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chunkymonkey.js" afterPath="$PROJECT_DIR$/basic-algorithms/chunkymonkey.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/confirmending.js" afterPath="$PROJECT_DIR$/basic-algorithms/confirmending.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/largestOfFour.js" afterPath="$PROJECT_DIR$/basic-algorithms/largestOfFour.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/longestString.js" afterPath="$PROJECT_DIR$/basic-algorithms/longestString.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mutations.js" afterPath="$PROJECT_DIR$/basic-algorithms/mutations.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/palindrome.js" afterPath="$PROJECT_DIR$/basic-algorithms/palindrome.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/repeatString.js" afterPath="$PROJECT_DIR$/basic-algorithms/repeatString.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/slasherflick.js" afterPath="$PROJECT_DIR$/basic-algorithms/slasherflick.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/truncateString.js" afterPath="$PROJECT_DIR$/basic-algorithms/truncateString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic-algorithms/seekanddestroy.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FreeCodeCamp Algorithms.iws" />
@@ -54,21 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mutations.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic-algorithms/mutations.js">
+      <file leaf-file-name="falsybouncer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-algorithms/falsybouncer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state relative-caret-position="437">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="falsybouncer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic-algorithms/falsybouncer.js">
+      <file leaf-file-name="seekanddestroy.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic-algorithms/seekanddestroy.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            <state relative-caret-position="217">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -89,7 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="internal/process/next_tick.js" />
         <option value="$PROJECT_DIR$/Title Case a Sentence.js" />
         <option value="$PROJECT_DIR$/palindrome.js" />
         <option value="$PROJECT_DIR$/longestString.js" />
@@ -104,6 +93,9 @@
         <option value="$PROJECT_DIR$/mutations.js" />
         <option value="$PROJECT_DIR$/falsybouncer.js" />
         <option value="$PROJECT_DIR$/basic-algorithms/falsybouncer.js" />
+        <option value="$PROJECT_DIR$/seekanddestroy.js" />
+        <option value="internal/process/next_tick.js" />
+        <option value="$PROJECT_DIR$/basic-algorithms/seekanddestroy.js" />
       </list>
     </option>
   </component>
@@ -194,7 +186,7 @@
       <recent name="$PROJECT_DIR$/basic-algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.mutations.js">
+  <component name="RunManager" selected="Node.js.seekanddestroy.js">
     <configuration default="false" name="palindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/basic-algorithms/palindrome.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -205,6 +197,9 @@
       <method />
     </configuration>
     <configuration default="false" name="mutations.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/basic-algorithms/mutations.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="seekanddestroy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="seekanddestroy.js" working-dir="$PROJECT_DIR$/basic-algorithms">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -260,18 +255,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.repeatString.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.chunkymonkey.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.mutations.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.seekanddestroy.js" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.mutations.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.chunkymonkey.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.repeatString.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.seekanddestroy.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.mutations.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.chunkymonkey.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.repeatString.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
       </list>
     </recent_temporary>
   </component>
@@ -286,12 +283,12 @@
       <option name="presentableId" value="Default" />
       <updated>1469804766033</updated>
       <workItem from="1469804767335" duration="4612000" />
-      <workItem from="1469826453842" duration="6534000" />
+      <workItem from="1469826453842" duration="9345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11146000" />
+    <option name="totallyTimeSpent" value="13957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -305,7 +302,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48396948" sideWeight="0.496875" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32061067" sideWeight="0.496875" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -342,14 +339,13 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="21" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
-        <watch expression="letter" />
-        <watch expression="firstElement" />
-        <watch expression="lastElement" />
-        <watch expression="i" />
+        <watch expression="bool" />
+        <watch expression="args" />
+        <watch expression="element" />
       </configuration>
     </watches-manager>
   </component>
@@ -492,6 +488,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basic-algorithms/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic-algorithms/slasherflick.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -500,18 +504,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic-algorithms/mutations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic-algorithms/falsybouncer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-algorithms/seekanddestroy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding />
         </state>
       </provider>
