@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c88cc36b-ffbc-4490-8682-9f627eac2eb5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chunkymonkey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/truncateString.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <ignored path="FreeCodeCamp Algorithms.iws" />
@@ -23,32 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="longestString.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/longestString.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="confirmending.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/confirmending.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="439">
-                <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+              <first_editor relative-caret-position="190">
+                <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -59,21 +42,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="repeatString.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repeatString.js">
+      <file leaf-file-name="truncateString.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/truncateString.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="190">
+              <caret line="10" column="109" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="109" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TitleCaseASentence.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TitleCaseASentence.js">
+      <file leaf-file-name="chunkymonkey.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chunkymonkey.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="519">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -102,6 +85,8 @@
         <option value="$PROJECT_DIR$/largestOfFour.js" />
         <option value="$PROJECT_DIR$/confirmending.js" />
         <option value="$PROJECT_DIR$/repeatString.js" />
+        <option value="$PROJECT_DIR$/truncateString.js" />
+        <option value="$PROJECT_DIR$/chunkymonkey.js" />
         <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
@@ -174,11 +159,14 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Node.js.repeatString.js">
+  <component name="RunManager" selected="Node.js.chunkymonkey.js">
     <configuration default="false" name="palindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/palindrome.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="false" name="repeatString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="repeatString.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="chunkymonkey.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="chunkymonkey.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -234,14 +222,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.repeatString.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.chunkymonkey.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.repeatString.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.chunkymonkey.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.repeatString.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
       </list>
     </recent_temporary>
   </component>
@@ -256,12 +246,12 @@
       <option name="presentableId" value="Default" />
       <updated>1469804766033</updated>
       <workItem from="1469804767335" duration="4612000" />
-      <workItem from="1469826453842" duration="2062000" />
+      <workItem from="1469826453842" duration="4770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6674000" />
+    <option name="totallyTimeSpent" value="9382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -312,12 +302,15 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
-        <watch expression="str" />
+        <watch expression="chunk" />
+        <watch expression="size" />
         <watch expression="i" />
+        <watch expression="arrOfArr" />
+        <watch expression="newSize" />
       </configuration>
     </watches-manager>
   </component>
@@ -408,18 +401,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/repeatString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truncateString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="109" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TitleCaseASentence.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="266">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repeatString.js">
+    <entry file="file://$PROJECT_DIR$/chunkymonkey.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="519">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -430,8 +439,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="439">
-            <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />
