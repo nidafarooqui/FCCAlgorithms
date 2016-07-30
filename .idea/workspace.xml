@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c88cc36b-ffbc-4490-8682-9f627eac2eb5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic-algorithms/seekanddestroy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic-algorithms/whereDoIBelong.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic-algorithms/seekanddestroy.js" afterPath="$PROJECT_DIR$/basic-algorithms/seekanddestroy.js" />
     </list>
     <ignored path="FreeCodeCamp Algorithms.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,8 +58,18 @@
       <file leaf-file-name="seekanddestroy.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basic-algorithms/seekanddestroy.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="171">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whereDoIBelong.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-algorithms/whereDoIBelong.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -95,6 +106,7 @@
         <option value="$PROJECT_DIR$/basic-algorithms/falsybouncer.js" />
         <option value="$PROJECT_DIR$/seekanddestroy.js" />
         <option value="internal/process/next_tick.js" />
+        <option value="$PROJECT_DIR$/basic-algorithms/whereDoIBelong.js" />
         <option value="$PROJECT_DIR$/basic-algorithms/seekanddestroy.js" />
       </list>
     </option>
@@ -283,12 +295,12 @@
       <option name="presentableId" value="Default" />
       <updated>1469804766033</updated>
       <workItem from="1469804767335" duration="4612000" />
-      <workItem from="1469826453842" duration="9345000" />
+      <workItem from="1469826453842" duration="10096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13957000" />
+    <option name="totallyTimeSpent" value="14708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -512,10 +524,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basic-algorithms/whereDoIBelong.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic-algorithms/seekanddestroy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="171">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
