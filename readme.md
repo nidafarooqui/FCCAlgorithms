@@ -1,10 +1,11 @@
+#Free Code Camp Algorithm Scripting Solutions
+These are my solutions to all* the free code camp algorithm solutions.
+I've tried to include better solutions wherever I found a better one.
+
+\* I haven't included the first two.
+
 Basic Algorithm Scripting
 =========================
-
-
-My solutions to the basic algorithms on Free Code Camp.
-
-(I've included better solutions wherever applicable).
 
 
 ####The ones I've covered so far:
