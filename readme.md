@@ -31,17 +31,17 @@ Basic Algorithm Scripting
  
 - [x] Chunky Monkey
 
-- [ ] _Slasher Flick_  
+- [x] Slasher Flick  
  
-- [ ] _Mutations_  
+- [x] Mutations  
    
-- [ ] _Falsy Bouncer_ 
+- [x] Falsy Bouncer 
    
-- [ ] _Seek and Destroy_  
+- [x] Seek and Destroy  
    
-- [ ] _Where do I belong_ 
+- [x] Where do I belong 
    
-- [ ] _Caesars Cipher_  
+- [x] Caesars Cipher  
 
 
 
