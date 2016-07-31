@@ -20,13 +20,8 @@ function confirmEnding(str, target) {
 		}
 		else {
 			if(arrayOfStr[arrayOfStr.length-1].includes(target)) {
-				if(arrayOfStr[arrayOfStr.length-1]
-						.lastIndexOf(target) != -1) {
-					return true;
-				}
-				else {
-					return false;
-				}
+				return (arrayOfStr[ arrayOfStr.length - 1 ]
+					.lastIndexOf(target) != -1);
 			}
 		}//end of outer else tag
 	}
@@ -38,5 +33,12 @@ function confirmEnding(str, target) {
 
 	return false;
 }
-confirmEnding("Open sesame", "same");
+console.log(confirmEnding("Open sesame", "same"));
 //confirmEnding("Bastian", "n");
+
+/* WAY less complicated than mine
+
+ function confirmEnding(str, target) {
+ return str.substr(-target.length) === target;
+ }
+ */

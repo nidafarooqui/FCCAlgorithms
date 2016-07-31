@@ -17,3 +17,12 @@ function repeatStringNumTimes(str, num) {
 }
 
 repeatStringNumTimes("abc", 3);
+
+
+/**
+ function repeatStringNumTimes(str, num) {
+  return num > 0 ? str.repeat(num) : '';
+}
+
+ repeatStringNumTimes("abc", 3);
+ */
