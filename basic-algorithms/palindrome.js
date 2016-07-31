@@ -32,11 +32,7 @@ function palindrome(str) {
 	result = checkpalindrome(i);
 
 	return result;
-};
-
-
-
-
+}
 console.log(palindrome("eye1e"));
 
 console.log(palindrome("race Car"));
